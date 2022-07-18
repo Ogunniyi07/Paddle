@@ -1,0 +1,55 @@
+.Nav{
+    width:1920px;
+    height:182px;
+    display: flex;
+    flex-direction: row;
+    background-color: #210045;
+  }
+  .Logo{
+    margin-left: 98px;
+    width: 197px;
+    height: 182px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 1;
+  }
+  .Navlist{
+    margin-left: 1181px; 
+    display: flex;
+    flex-direction: row;
+  }
+  ul{
+    width: 348px; 
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    cursor: pointer;
+    justify-content: space-between;
+  }
+  li .link{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: center;
+    font: normal normal medium 18px/27px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    opacity: 1;
+  }
+  button{
+    width: 148px;
+    height: 43px;
+    font: normal normal medium 18px/27px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    background: #271AC1 0% 0% no-repeat padding-box;
+    box-shadow: 0px 0px 10px #09090991;
+    border-radius: 51px;
+    opacity: 1;
+    cursor: pointer;
+    border: none;
+  }

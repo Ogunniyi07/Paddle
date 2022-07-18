@@ -1,0 +1,173 @@
+.about-page{
+    width: 1920px;
+    height: auto;
+    overflow: hidden;
+  }
+.about-banner{
+    width: 1920px;
+    height: 891px;
+    display: flex;
+    flex-direction: row;
+  }
+.about-img{
+    width: 1153px;
+    height: 891px;
+    background: transparent linear-gradient(180deg, #213F72 0%, #19073B 100%) 0% 0% no-repeat padding-box;
+    opacity: 1;
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+  }
+  .about-txt{
+    width:767px ;
+    height: 891px;
+    overflow: hidden;
+  }
+  .about{
+    display: flex;
+    text-transform: uppercase;
+    color: #ffffff;
+    padding-top:286px;
+    margin-left:584px;
+    font: normal normal 22px/39px Poppins;
+    letter-spacing: 1.1px;
+  }
+  .about p{
+    font-family: Arial; 
+    letter-spacing: -2px;
+  }
+  .description{
+    width: 766px;
+    text-align: left;
+    padding-top:74px;
+    margin-left:749px;
+    font: normal normal normal 84px/102px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+  }
+  .text p{
+    position: relative;
+    width: 532px;
+    height: 192px;
+    text-align: left;
+    padding-top:650px;
+    font: normal normal normal 22px/45px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+  }
+  .writing{
+    width: 1153px;
+    height: 475px;
+    padding-top: 228px;
+    margin-bottom: 194px;
+  } 
+  .writing p{
+    width: 1384px;
+    height: 275px;
+    font: normal normal 64px/93px poppins;
+    text-align: left;
+    letter-spacing: 1.28px;
+    color: #FFFFFF;
+  }
+  .why{
+    height: 627px;
+    margin-bottom: 308px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+  .why-text{
+    width: 960px;
+    height: 627px;
+  }
+  .title2{
+    padding-top:55px;
+    margin-left:364px;
+  }
+  .why-us{
+    width: 104px;
+    height: 31px;
+    color: #ffffff;
+    text-transform: uppercase;
+    font: normal normal medium 22px/39px Poppins;
+    letter-spacing: 1.1px;
+  }
+  .title2 h5{
+    width: 587px;
+    height: 175px;
+    text-align: left;
+    font: normal normal 300 22px/50px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+  }
+  .title2 p{
+    padding-top:115px;
+    text-align: left;
+    font: normal normal 300 22px/45px Poppins;
+    font-weight: bolder;
+    letter-spacing: 25px;
+    color: #FFFFFF;
+  }
+  .why-grow{
+    width: 960px;
+    height: 627px;
+    padding-top:55px;
+    background: transparent linear-gradient(180deg, #213F72 0%, #19073B 100%) 0% 0% no-repeat padding-box;
+    opacity: 1;
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+
+  }
+  .grow{
+    width: 246px;
+    height: 31px;
+    font: normal normal medium 22px/39px Poppins;
+    letter-spacing: 1.1px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+  }
+  .title2 h6{
+    width: 587px;
+    height: 212px;
+    text-align: left;
+    padding-top: 42px;
+    font: normal normal 300 22px/50px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+  }
+  .question{
+    width: 1920px;
+    height: 463px;
+    background: transparent linear-gradient(180deg, #213F72 0%, #19073B 100%) 0% 0% no-repeat padding-box;
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+  }
+  .con{
+    padding-top: 143px;
+    padding-left: 146px;
+  }
+  .quest{
+    width: 382px;
+    height: 64px;
+    text-align: left;
+    font: normal normal medium 46px/93px Poppins;
+    letter-spacing: 0.92px;
+    color: #FFFFFF;
+  }
+  .con p{
+    width: 1033px;
+    height: 99px;
+    text-align: left;
+    font: normal normal 300 24px/50px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    text-transform: lowercase;
+  }
+  .con a{
+    width: 150px;
+    height: 28px;
+    text-align: center;
+    font: normal normal medium 20px/36px Poppins;
+    letter-spacing: 0px;
+    color: #FF00F7;
+    text-transform: capitalize; 
+  }

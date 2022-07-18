@@ -1,0 +1,83 @@
+.terms{
+    width:1920px;
+    background: transparent linear-gradient(180deg, #210045 0%, #0C0123 100%) 0% 0% no-repeat padding-box;
+    overflow: hidden;
+}
+.termsText{
+    width:1920px;
+    padding: 66px 98px;
+}
+
+.termsText p{
+    text-align: left;
+    font: normal normal 300 22px/50px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+}
+.word{
+    margin-top: 78px;
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+    align-items:center;
+}
+.slab{
+    width: 14px;
+    height: 155px;
+    background-color: #FFFFFF;
+}
+.wordText{
+    margin-left: 28px;
+    text-align: left;
+    font: normal normal 300 22px/50px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+}
+
+.condition ol li{
+    display: list-item;
+    list-style-position: inside;
+    text-align: left;
+    font: normal normal 50px/54px Poppins;
+    letter-spacing: 0px;
+    text-transform: capitalize;
+    color: #FFFFFF;
+    padding-top:150px ;
+}
+.condition p{
+    text-align: left;
+    font: normal normal 300 22px/50px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    padding-top: 37px;
+}
+.word2{
+    margin-top: 78px;
+    display: flex;
+    flex-direction:row;
+    justify-content: left;
+    align-items:center;
+}
+.slab2{
+    width: 14px;
+    height: 55px;
+    background-color: #FFFFFF;
+}
+.wordText2{
+    margin-left: 28px;
+    text-align: left;
+    font: normal normal 300 22px/50px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+}
+.contact{
+    width: 1569px;
+    margin-top: 61px;
+}
+.contact h2{
+    width: 278px;
+    height: 71px;
+    font: normal normal 50px/54px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+}

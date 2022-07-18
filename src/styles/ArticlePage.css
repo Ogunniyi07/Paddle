@@ -1,0 +1,279 @@
+.articlePage{
+    width: 1920px;
+    background: #FAFAFA 0% 0% no-repeat padding-box;
+}
+.contain{
+    width: 1920px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding:104.38px 149px;
+    
+}
+.contain img{
+    width: 1622px;
+    height: 707px;
+    box-shadow: 0px 0px 30px #0000002E;
+}
+.contain-text{
+    width: 1549px;
+    height:1000px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 69px;
+}
+.contain-text h5{
+    width: 427px;
+    height: 33px;
+    text-align: left;
+    font: normal normal normal 24px/72px Poppins;
+    letter-spacing: 0.72px;
+    color: #000000;
+    text-transform: capitalize;
+    opacity: 0.8;
+}
+.contain-text h5 img{
+    width: 52px;
+    height: 53px;
+    border-radius: 38px;
+}
+.contain-text h2{
+    width: 1012px;
+    height: 63px;
+    text-align: center;
+    margin-top: 50px;
+    font: normal normal 45px/52px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+}
+.contain-text p{
+    width: 1549px;
+    height: 314px;
+    margin-top: 59px;
+    text-align: center;
+    font: normal normal 300 24px/50px Poppins;
+    letter-spacing: 0px;
+    color: #1E232C;
+    opacity: 0.8;
+}
+.contain-text h1{
+    width: 334px;
+    height: 48px;
+    text-align: center;
+    margin-top: 150px;
+    font: normal normal 34px/60px Poppins;
+    letter-spacing: 1.02px;
+    color: #000000;
+    text-transform: capitalize;
+}
+.content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 40px;
+    margin-bottom: 82px;
+}
+.content .list{
+    width: 774px;
+}
+.list ol li{
+    width: 700px;
+    height: 54px;
+    text-align: left;
+    font: normal normal 300 22px/50px Poppins;
+    letter-spacing: 0.66px;
+    color: #707070;
+    text-transform: lowercase;
+    opacity: 0.8;
+}
+.socials{
+    width:1920px;
+    margin-top: 52px;
+    display: flex;
+    flex-direction: column;
+}
+.social-media{
+    width:1920px;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.share{
+    width:320px;
+    height: 150px;
+    padding: 40px 0;
+}
+.social-media h2{
+    width: 280px;
+    height: 33px;
+    text-align: center;
+    font: normal normal 24px/35px Poppins;
+    letter-spacing: 0.72px;
+    color: #1E232C;
+    text-transform: capitalize;
+}
+.social-box{
+    margin-top:30px;
+}
+.media-box{
+    width: 56px;
+    height: 57px;
+    background: transparent linear-gradient(180deg, #213F72 0%, #1D0040 100%) 0% 0% no-repeat padding-box;
+    border-radius: 7px;
+    padding: 14px;
+}
+.media-icons4{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .media-icons4 ul{
+    align-items: center;
+    cursor:default;
+  }
+  .media-icons4 ul li a{
+    color: #FFFFFF;
+    font-size: 28px;
+    cursor:default;
+    transition: all 0.s ease;
+  }
+  .media-icons ul li a:hover{
+    color: #FFFFFF;
+  }
+  .help{
+    width:1920px;
+    height: 152px;
+    margin-top: 62.64px;
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+  .help-text{
+    width: 960px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .help-text p{
+    width: 598px;
+    height: 39px;
+    text-align: left;
+    letter-spacing: 0.84px;
+    font: normal normal 300 20px/50px Poppins;
+    color: #1E232C;
+    text-transform: capitalize;
+  }
+  .help-text p .thumb{
+    color: #2c025f;
+    font-size: 20px;
+  }
+  .blur{
+    width: 960px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    filter: blur(12px);
+  }
+  .blur-img{
+    width: 468px;
+    height: 48px;
+    background: transparent linear-gradient(180deg, #213F72 0%, #19073B 100%) 0% 0% no-repeat padding-box;
+    opacity: 1;
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+  }
+   .article-form{
+    width: 1920px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 71px;
+    padding: 0px 250px;
+  }
+  .article-form-text{
+    width: 1549px;
+  }
+  .article-form-text h3{
+    width: 312px;
+    height: 53px;
+    text-align: center;
+    font: normal normal 38px/35px Poppins;
+    letter-spacing: 0px;
+    color: #1E232C;
+  }
+  .article-form-text p{
+    width: 920px;
+    height: 33px;
+    text-align: left;
+    padding-top: 40px;
+    font: normal normal 300 24px/18px Poppins;
+    letter-spacing: 0px;
+    color: #1E232C;
+  }
+  .article-form-text h4{
+    text-align: left;
+    font: normal normal normal 24px/19px Poppins;
+    letter-spacing: 0px;
+    color: #1E232C;
+    opacity: 0.78;
+    padding-top: 120px;
+  }
+  .article-form-text input[type='text']{
+    width: 1315px;
+    height: 100px;
+    border-bottom: 1px solid #707070;
+    margin-top: 80px;
+    background: #FAFAFA 0% 0% no-repeat padding-box;
+  }
+  .article-form-text input[type='text']::placeholder{
+    width: 1315px;
+    padding-left: 60px;
+  }
+  .article-form-text input[type='email']{
+    width: 1315px;
+    height: 100px;
+    border-bottom: 1px solid #707070;
+    border-radius: 0;
+    margin-top: 40px;
+    background: #FAFAFA 0% 0% no-repeat padding-box;
+  }
+  .article-form-text input[type='email']::placeholder{
+    width: 1315px;
+    padding-left: 20px;
+  }
+  .article-form-text .comment input[type='text']{
+    width: 1315px;
+    height: 317px;
+    background: #EDEDEE 0% 0% no-repeat padding-box;
+    border: none;
+  }
+  .article-form-text .comment input[type='text']::placeholder{
+    width: 1315px;
+    padding-left: 60px;
+    position: relative;
+    top: -100px;
+  }
+  .article-form-btn{
+    margin-top: 58px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 67.47px;
+  }
+ .article-form-btn button{
+    width: 281px;
+    height: 77px;
+    background: #7C0FD5 0% 0% no-repeat padding-box;
+    box-shadow: 0px 0px 10px #09090933;
+  } 

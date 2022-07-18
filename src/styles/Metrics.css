@@ -1,0 +1,62 @@
+.metrics{
+    width: 1920px;
+    height: 463px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 73px 145px;
+    background: transparent linear-gradient(180deg, #213F72 0%, #19073B 100%) 0% 0% no-repeat padding-box;
+}
+.metrics-shape{
+    width: 1920px;
+    height: 463px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 73px 0;
+}
+.metrics-text{
+    width: 790px;
+}
+.metrics-text h2{
+    width: 790px;
+    height: 61px;  
+    text-align: left;
+    font: normal normal 44px/65px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    text-transform: capitalize; 
+}
+.metrics-text p{
+    width: 486px;
+    height: 47px;
+    text-align: left;
+    padding-top: 28px;
+    font: normal normal 300 22px/45px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 0.87;
+}
+.metrics-text .contact{
+    padding-top: 38px;
+}
+.metrics-text a{
+    width: 112px;
+    height: 28px;
+    text-align: center;
+    font: normal normal medium 20px/36px Poppins;
+    letter-spacing: 0px;
+    color: #FF00F7;
+    text-transform: capitalize;
+}
+
+.metrics-img{
+    width: 557px;
+    height: 318px;
+    background: transparent linear-gradient(180deg, #7F1E7B 0%, #19073B 100%) 0% 0% no-repeat padding-box;
+    opacity: 1;
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+}

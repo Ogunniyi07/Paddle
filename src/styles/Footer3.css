@@ -1,0 +1,22 @@
+.footer3{
+  width:1920px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 44px 0 20px 0;
+    background: #FAFAFA 0% 0% no-repeat padding-box;
+}
+.media-icons3 ul{
+    align-items: center;
+    cursor:default;
+  }
+  .media-icons3 ul li a{
+    color: #707070;
+    font-size: 28px;
+    cursor:default;
+    transition: all 0.s ease;
+  }
+  .media-icons3 ul li a:hover{
+    color: #000000;
+  }

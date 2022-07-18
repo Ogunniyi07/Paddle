@@ -1,0 +1,126 @@
+.contact-page{
+    width:1920px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: -80px;
+}
+.contactImg{
+    width: 960px;
+    height: 1619px;
+    background: transparent linear-gradient(180deg, #213F72 0%, #19073B 100%) 0% 0% no-repeat padding-box;
+    opacity: 1;
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+}
+.contactForm{
+    width: 960px;
+    display: flex;
+    flex-direction: column;
+    padding: 39px 0px 39px 123px;
+}
+.contactArrow{
+    width: 645px;
+    height: 102px;
+}
+.square{
+    position: relative;
+    width: 104px;
+    height: 102px;
+    margin-left: -180px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 0px 10px #00000029;
+    border-radius: 50%;
+    padding-left: 40px;
+    padding-top: 35px;
+    font-size:24px;
+    font-weight: bolder;
+}
+.square a{
+    color: #000;
+}
+.contactForm-text{
+    width: 645px;
+}
+.contactForm-text h1{
+    width: 645px;
+    height: 116px;
+    text-align: center;
+    font: normal normal 40px/60px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+}
+.mainForm{
+    width: 752px;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    align-items: left;
+    padding-top: 74px;
+}
+.mainForm p{
+    width: 500px;
+    height: 29px;
+    text-align: left;
+    font: normal normal 300 21px/36px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+}
+.mainForm input[type='text']{
+    width: 752px;
+    height: 102px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border-radius: 15px;
+    margin-top: 28px;
+    border: none;
+}
+.mainForm input[type='text']::placeholder{
+    width: 700px;
+    height: 28px;
+    text-align: left;
+    font: normal normal normal 20px/36px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 0.54;
+}
+.mainForm input[type='email']{
+    width: 752px;
+    height: 102px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border-radius: 15px;
+    margin-top: 28px;
+    border: none;
+}
+.mainForm input[type='email']::placeholder{
+    width: 700px;
+    height: 28px;
+    text-align: left;
+    position: relative;
+    left: -50px;
+    font: normal normal normal 20px/36px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 0.54;
+}
+.mainForm .problem input[type='text']{
+    width: 752px;
+    height: 223px;
+    border: none;
+}
+.mainForm .problem input[type='text']::placeholder{
+    position: relative;
+    top: -60px;
+    left: -10px;
+}
+.contactBtn{
+    width: 752px;
+    height: 94px;
+    margin-top: 64px;
+}
+.contactBtn button{
+    width: 290px;
+    height: 94px;
+    background: #271AC1 0% 0% no-repeat padding-box;
+    box-shadow: 0px 0px 10px #09090991;
+}

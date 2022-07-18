@@ -1,0 +1,226 @@
+
+.container{
+    width: 1920px;
+    background: #FAFAFA 0% 0% no-repeat padding-box;
+    overflow: hidden;
+}
+.lorem{
+    width: 1920px;
+    margin-bottom:71px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.text{
+    width: 960px;
+    padding:70px 0px 0px 146px;
+}
+.text h2{
+    width: 469px;
+    height: 63px; 
+    text-align: left;
+    font: normal normal 45px/52px Poppins;
+    letter-spacing: 0px;
+    color: #1E232C;
+}
+.text h4{
+    width: 814px;
+    height: 104px;
+    text-align: left;
+    padding-top: 24px;
+    font: normal normal normal 22px/45px Poppins;
+    letter-spacing: 0.66px;
+    color: #000000;
+    text-transform: capitalize;
+    opacity: 0.8;
+}
+.search{
+    width:960px;
+    padding:140px 0px 0px 146px;
+    display: flex;
+    flex-direction: column;
+}
+input[type=search]{
+    width: 613px;
+    height: 84px;
+    border: 1px solid #000000;
+    color: #707070;
+    border-radius: 38px;
+}
+input::placeholder{
+    width: 108px;
+    height: 25px;
+    text-align: left;
+    padding-left:60px;
+    font: normal normal normal 18px/47px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 0.6;
+}
+.icon{
+    position:absolute;
+    top: 728px;
+    left: 1652px;
+    font: normal normal normal 18px/47px Poppins;
+    color: #000000;
+    opacity: 0.6;
+}
+.box{
+    width: 1920px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.wrap{
+    width: 1755px;
+    height: 1673px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 45px;
+}
+.row{
+    width: 1755px;
+    height: 754px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 22px;
+    margin-bottom: 85px;
+}
+.card{
+    width: 538px;
+    height: 754px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #FEFEFE 0% 0% no-repeat padding-box;
+    box-shadow: 0px 0px 30px #00000038;
+}
+.card img{
+    width: 487px;
+    height: 322px;
+    box-shadow: 0px 0px 15px #00000029;
+}
+.text-box{
+    width: 487px;
+    height: max-content;
+    padding: 0px 43px 0px 0px;
+}
+.text-box h3{
+    width: 336px;
+    height: 20px;
+    text-align: left;
+    margin-top: 33px;
+    font: normal normal 300 12px/21px Poppins;
+    letter-spacing: 0.42px;
+    color: #1E232C;
+    opacity: 0.53;
+}
+.text-box h2{
+    width: 324px;
+    height: 81px;
+    padding-top:15px;
+    text-align: left;
+    font: normal normal 600 26px/45px Poppins;
+    letter-spacing: 0px;
+    color: #1E232C;
+    text-transform: capitalize;
+}
+.text-box p{
+    width: 468px;
+    height: 143px;
+    text-align: left;
+    padding-top: 28px;
+    font: normal normal 300 15px/35px Poppins;
+    letter-spacing: 0px;
+    color: #1E232C;
+}
+.text-box .read{
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    margin-top: 28px;
+}
+.text-box a{
+    width: 204px;
+    height: 25px;
+    text-align: left;
+    margin-left: -300px;
+    font: normal normal normal 18px/27px Poppins;
+    letter-spacing: 0.54px;
+    color: #FF00F7;
+}
+.text-box .read h6{
+    color: #FF00F7;
+    font-family: Arial; 
+    letter-spacing: -2px;
+}
+.recent{
+    width: 1755px;
+}
+.recent-text{
+    width: 814px;
+    padding: 45px;
+}
+.recent-text h2{
+    width: 337px;
+    height: 63px;
+    text-align: left;
+    font: normal normal  45px/52px Poppins;
+    letter-spacing: 0px;
+    color: #1E232C;
+}
+.recent-text p{
+    width: 814px;
+    height: 104px;
+    text-align: left;
+    font: normal normal normal 22px/45px Poppins;
+    letter-spacing: 0.66px;
+    color: #000000;
+    text-transform: capitalize;
+    opacity: 0.8;
+}
+.row2{
+    width: 1646px;
+    height: 463px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 22px;
+    margin-bottom:88.5px 
+}
+.card2{
+    width: 511px;
+    height: 355px;
+    padding: 34px 24px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 0px 13px #00000029;
+}
+.text-box h6{
+    width: 336px;
+    height: 20px;
+    text-align: left;
+    font: normal normal 300 12px/21px Poppins;
+    letter-spacing: 0.42px;
+    color: #1E232C;
+    opacity: 0.53;
+}
+.button{
+    width:1920px;
+    padding-bottom: 103.7px;
+    display: flex;
+    justify-content: center;
+}
+.button button{
+    width: 281px;
+    height: 77px;
+    background: #7C0FD5 0% 0% no-repeat padding-box;
+    box-shadow: 0px 0px 10px #09090933;
+}

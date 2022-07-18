@@ -1,0 +1,39 @@
+.privacy{
+    width:1920px;
+    background: transparent linear-gradient(180deg, #210045 0%, #0C0123 100%) 0% 0% no-repeat padding-box;
+    overflow: hidden;
+}
+.privacyText{
+    padding: 66px 98px;
+}
+.ecclipse{
+    position: absolute;
+    top: 462px;
+    left: 1611px;
+}
+/* .condition .absolute{
+    position: absolute;
+    top: 120px;
+} */
+.condition h3{
+    margin-top: 39px;
+    font: normal normal normal 34px/40px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+}
+.condition h4{
+    text-align: left;
+    font: normal normal normal 26px/50px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    text-transform: capitalize;
+}
+.condition .list2 ol li{
+    margin-top: -120px;
+    margin-left: 60px;
+    text-align: left;
+    font: normal normal 300 26px/50px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    text-transform: capitalize;
+}

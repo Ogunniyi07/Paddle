@@ -1,0 +1,43 @@
+.title{
+    width:1920px;
+    overflow: hidden;
+}
+.titleBody{
+    width:1920px;
+    padding: 70px 98px;
+    /* margin-bottom: 50px; */
+}
+.titleTitle{
+    width:1920px;
+    height: 109px;
+    display: flex;
+    flex-direction:row;
+    justify-content: left;
+    align-items: center;
+}
+.titleTitle-text{
+    width: 960px;
+}
+.titleTitle-text h2{
+    width: 588px;
+    height: 100px;
+    text-align: center;
+    font: normal normal 71px/96px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+}
+.titleDot{
+    width: 960px;
+    display: flex;
+    justify-content: center;
+    padding-left: 130px;
+}
+.titleDot p{
+    width: 144px;
+    height: 109px;
+    text-align: left;
+    font: normal normal 300 22px/45px Poppins;
+    font-weight: bolder;
+    letter-spacing: 25px;
+    color: #FFFFFF;
+}

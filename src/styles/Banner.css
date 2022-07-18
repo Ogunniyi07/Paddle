@@ -1,0 +1,113 @@
+.banner{
+    width:1920px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #210045;
+  }
+  .banner-text{
+    width: 790px;
+    height: 225px;
+    margin-top:231px;
+    background-color: #210045;
+  }
+  .banner-text h1{
+    text-align: center;
+    font: normal normal bold 62px/84px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+  }
+  .banner-text p{
+    text-align: center;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+  }
+  .date{
+    width: 524px;
+    height: 137px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .count-down{
+    width: 120px;
+    height: 134px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border-radius: 9px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    opacity: 1;
+  }
+  .count-down span{
+    text-align: center;
+    font: normal normal 600 47px/70px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+  }
+  .count-down p{
+    text-align: center;
+    font: normal normal normal 17px/26px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+  }
+  .form{
+    width: 526px;
+    height: 45px;
+    margin-top:61px;
+    display: flex;
+    justify-content: space-between;
+  }
+  input[type=text]{
+    width: 244px;
+    height: 43px;
+    border-style: none;
+    background-color: #210045;
+    border-bottom: 2px solid #707070;
+    color: #707070;
+    font: normal normal normal 14px/21px Poppins;
+  }
+  input:focus{
+    outline: none;
+  }
+  
+  .form2{
+    width: 664px;
+    height: 67px;
+    margin-top:61px;
+    background-color:#FFFFFF;
+    border-radius: 51px;
+  }
+  ::placeholder{
+    text-align: left;
+    font: normal normal normal 14px/21px Poppins;
+    letter-spacing: 0px;
+    color: #707070;
+    text-transform: capitalize;
+  }
+  input[type=email]{
+    width: 414px;
+    height: 67px;
+    padding-left: 40px;
+    color: #707070;
+    font: normal normal normal 14px/21px Poppins;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border-radius: 51px;
+    border: none;
+    opacity: 1;
+  }
+  .form2 button{
+    width: 250px;
+    height: 67px;
+    cursor: default;
+  }
+  .form2 ::placeholder{
+    font: normal normal 300 17px/29px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+  }

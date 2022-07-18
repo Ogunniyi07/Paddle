@@ -1,0 +1,23 @@
+.Nav2{
+    width:1920px;
+    height:182px;
+    display: flex;
+    flex-direction: row;
+    background: #FAFAFA 0% 0% no-repeat padding-box;
+  }
+  .ul2 li .link{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: center;
+    font: normal normal medium 18px/27px Poppins;
+    letter-spacing: 0px;
+    color: #1E232C;
+    text-transform: uppercase;
+    opacity: 1;
+    transition: all 0.3 ease;
+  }
+.ul2 li .link:hover,
+.ul2 li.active{
+    color: #FF00F7;
+}
